@@ -6,6 +6,7 @@ Blinkit Sales Dashboard – Interactive and insightful dashboard for analyzing B
 To build a data-driven, visually interactive dashboard that enables stakeholders to track, analyze, and improve Blinkit’s sales metrics such as revenue, order volume, customer behavior, and product trends.
 
 💡 Key Features:
+
 📈 Real-time sales performance visualization
 
 📦 Top-selling products & low-performing SKUs
