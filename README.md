@@ -22,9 +22,15 @@ To build a data-driven, visually interactive dashboard that enables stakeholders
 🔍 Filters and slicers for detailed analysis
 
 🧰 Tools & Technologies Used:
+
 Category	Tools
+
 Data Visualization	Power BI / Tableau / Excel
+
 Data Processing	Python / Pandas / Excel
+
 Data Source	CSV / Excel / SQL DB
+
 Version Control	Git & GitHub
+
 Others	Matplotlib / Seaborn (if Python used)
